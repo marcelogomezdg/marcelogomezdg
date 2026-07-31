@@ -169,7 +169,7 @@ img {
   color: var(--canvas);
   background:
     linear-gradient(90deg, rgba(17, 17, 17, 0.78), rgba(17, 17, 17, 0.28) 58%, rgba(17, 17, 17, 0.62)),
-    url("img/fachada-mecanica-randon.png") center / cover;
+    url("img/top_fondo.png") center / cover;
 }
 
 .hero::after {

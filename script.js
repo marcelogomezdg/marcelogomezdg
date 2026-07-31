@@ -8,7 +8,11 @@ const projects = {
     media: [
       {
         title: "Branding",
-        images: ["img/tarjeta-randon-frente.jpeg", "img/tarjeta-randon-dorso.jpeg"]
+        images: [
+          "img/logos-branding/mrandon-claro-sin-fondo.png",
+          "img/tarjeta-randon-frente.jpeg",
+          "img/tarjeta-randon-dorso.jpeg"
+        ]
       },
       {
         title: "Aplicaciones de espacio",
@@ -37,7 +41,7 @@ const projects = {
     media: [
       {
         title: "Branding",
-        images: ["img/70-30-almacen-logo.jpeg"]
+        images: ["img/logos-branding/70-30-almacen-logo.jpeg"]
       },
       {
         title: "Aplicaciones de local",
@@ -54,7 +58,7 @@ const projects = {
     media: [
       {
         title: "Branding",
-        images: ["img/logo-zona-descanso.jpeg"]
+        images: ["img/logos-branding/logo-zona-descanso-png.png"]
       },
       {
         title: "Aplicaciones textiles",
@@ -83,7 +87,7 @@ const projects = {
     media: [
       {
         title: "Branding",
-        images: ["img/wizzbot-logo-vert-y-horiz.jpeg"]
+        images: ["img/logos-branding/wizzbot-logo-vert.jpeg", "img/wizzbot-logo-vert-y-horiz.jpeg"]
       },
       {
         title: "Piezas digitales",
@@ -104,7 +108,7 @@ const projects = {
     media: [
       {
         title: "Branding",
-        images: ["img/paperprint-logo.jpeg"]
+        images: ["img/logos-branding/paperprint-logo.jpeg"]
       },
       {
         title: "Mockups",
@@ -121,7 +125,7 @@ const projects = {
     media: [
       {
         title: "Branding",
-        images: ["img/chona-cars-concesionaria.jpeg"]
+        images: ["img/logos-branding/chona-cars-concesionaria.jpeg"]
       },
       {
         title: "Mockups y aplicaciones",
