@@ -8,23 +8,23 @@ const projects = {
     media: [
       {
         title: "Branding",
-        images: ["Tarjeta Randon Frente.jpeg", "Tarjeta Randon Dorso.jpeg"]
+        images: ["img/tarjeta-randon-frente.jpeg", "img/tarjeta-randon-dorso.jpeg"]
       },
       {
         title: "Aplicaciones de espacio",
         images: [
-          "Fachada Mecánica Randon c numeros.png",
-          "lona interior taller Mecánica Randon.png",
-          "LONA Interior M_RANDON.png"
+          "img/fachada-mecanica-randon.png",
+          "img/lona-interior-taller-mecanica-randon.png",
+          "img/lona-interior-m-randon.png"
         ]
       },
       {
         title: "Piezas digitales",
-        images: ["Flyer  SERVICIOS Mec_Randon_.png", "Flyer HORARIOS Atencion Mec_Randon_.png"]
+        images: ["img/flyer-servicios-mecanica-randon.png", "img/flyer-horarios-mecanica-randon.png"]
       },
       {
         title: "Mockups",
-        images: ["Mockup IG Story mecanicarandon.png", "Mockup tarjetas.jpeg"]
+        images: ["img/mockup-ig-story-mecanicarandon.png", "img/mockup-tarjetas-mecanicarandon.jpeg"]
       }
     ]
   },
@@ -37,11 +37,11 @@ const projects = {
     media: [
       {
         title: "Branding",
-        images: ["70-30 Almacen de Bebidas LOGO.jpeg"]
+        images: ["img/70-30-almacen-logo.jpeg"]
       },
       {
         title: "Aplicaciones de local",
-        images: ["70-30 Fachada MONTAJE.jpeg", "70-30 facahada FOTO.png", "70-30 Lateral.jpeg"]
+        images: ["img/70-30-fachada-montaje.jpeg", "img/70-30-fachada-foto.png", "img/70-30-lateral.jpeg"]
       }
     ]
   },
@@ -54,23 +54,23 @@ const projects = {
     media: [
       {
         title: "Branding",
-        images: ["LOGO Zona Descanso.jpeg"]
+        images: ["img/logo-zona-descanso.jpeg"]
       },
       {
         title: "Aplicaciones textiles",
         images: [
-          "zona-descanso-manual-p16-05.png",
-          "zona-descanso-manual-p16-06.png",
-          "zona-descanso-manual-p16-07.png"
+          "img/zona-descanso-manual-p16-05.png",
+          "img/zona-descanso-manual-p16-06.png",
+          "img/zona-descanso-manual-p16-07.png"
         ]
       },
       {
         title: "Papelería",
-        images: ["zona-descanso-manual-p17-02.png"]
+        images: ["img/zona-descanso-manual-p17-02.png"]
       },
       {
         title: "Piezas digitales",
-        images: ["zona-descanso-manual-p18-01.png"]
+        images: ["img/zona-descanso-manual-p18-01.png"]
       }
     ]
   },
@@ -83,15 +83,15 @@ const projects = {
     media: [
       {
         title: "Branding",
-        images: ["Wizzbot LOGO Vert y Horiz.jpeg"]
+        images: ["img/wizzbot-logo-vert-y-horiz.jpeg"]
       },
       {
         title: "Piezas digitales",
-        images: ["Flyer Wizzbot.jpg"]
+        images: ["img/flyer-wizzbot.jpg"]
       },
       {
         title: "Mockups",
-        images: ["Wizzbot Mockups.png"]
+        images: ["img/wizzbot-mockups.png"]
       }
     ]
   },
@@ -104,11 +104,11 @@ const projects = {
     media: [
       {
         title: "Branding",
-        images: ["PaperPrint LOGO.jpeg"]
+        images: ["img/paperprint-logo.jpeg"]
       },
       {
         title: "Mockups",
-        images: ["PaperPrint Mockups.png"]
+        images: ["img/paperprint-mockups.png"]
       }
     ]
   },
@@ -121,11 +121,11 @@ const projects = {
     media: [
       {
         title: "Branding",
-        images: ["CHONA CARS Concesionaria.jpeg"]
+        images: ["img/chona-cars-concesionaria.jpeg"]
       },
       {
         title: "Mockups y aplicaciones",
-        images: ["CHONA CARS Mockups .png"]
+        images: ["img/chona-cars-mockups.png"]
       }
     ]
   }
