@@ -9,7 +9,7 @@ const projects = {
       {
         title: "Branding",
         images: [
-          "img/logos-branding/mrandon-claro-sin-fondo.png",
+          "img/logos-branding/mrandon-con-fondo-oscuro.png",
           "img/tarjeta-randon-frente.jpeg",
           "img/tarjeta-randon-dorso.jpeg"
         ]
